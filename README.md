@@ -23,7 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake
-- Assignment and Communication
+
 - Working the Issue
 - Resolution
 
@@ -34,22 +34,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create Users: You want to create users so you can open a new ticket in the ticketing system. As you can see, individuals will be able to file tickets in the system so agents can receive them. In this picture the assignee is the agent that works or will work on the ticket form the user.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="770" alt="Example of ticket being resolved with an agent I set up to resolve the ticket" src="https://github.com/user-attachments/assets/7656c35f-9abe-4aa0-a2a1-5a30cdec0a6c" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this ticket the CEO's laptop would not turn on. The first step is to review the ticket. Read the ticket details to ensure you understand the issue described. The next step is the initial response. Acknowledge the issue by responding promptly and apologizing for any inconvenience. Clarify the problem, if needed ask for more details to confirm the issue. Check common causes, ask the CEO to press the power button on the laptop, if that doesn't work have them plug the charger into the laptop to see if it will charge. Provide a solution, in this case, the laptop charger was not working so another laptop charger will be bought or issued. Close the ticket, update the ticket after resolving the issue. Following up during this process should be a must. After resolution it is optional, in this case checking on the CEO to see if they are satisfied with the solution.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="813" alt="Resolved ticket for technical error" src="https://github.com/user-attachments/assets/8024a9c4-c2fa-4564-b390-69048ce3df32" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+How thorough documentation is in the ticketing system is vital to resolution. The Resolution field in ticketing systems like osTicket is essential for organizations as it provides clear documentation of how issues were resolved, ensuring consistency and transparency in support. It enables knowledge sharing, helps agents deliver consistent service, and improves customer satisfaction by keeping clients informed. Detailed resolutions also support accountability, facilitate compliance with industry regulations, and allow for better reporting and performance tracking. Additionally, they help identify recurring issues and root causes, enabling long-term improvements in processes and products. In this example you can see conversations with the customer and internal notes. This is key to informing other agents and management if the problem recurs. Being thorough when documenting is vital to resolution.
 </p>
 <br />
